@@ -1,2 +1,2 @@
-# c++ programs
+# Currency convertor program
 
